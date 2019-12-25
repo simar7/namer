@@ -1,7 +1,13 @@
+//! Generate a random name of two fields: left and right
+//!
+//! left: Adjective
+//!
+//! right: Last name of a famous personality
 use rand::prelude::*;
 
 fn main() {
-    let left = ["admiring",
+    let left = [
+        "admiring",
         "adoring",
         "affectionate",
         "agitated",

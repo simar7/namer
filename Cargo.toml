@@ -5,6 +5,7 @@ authors = ["Simarpreet Singh <simar@linux.com>"]
 edition = "2018"
 description = "namer helps you name you projects"
 license = "MIT"
+repository = "https://github.com/simar7/namer"
 
 [dependencies]
 rand = "0.7.2"
