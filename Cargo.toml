@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Simarpreet Singh <simar@linux.com>"]
 edition = "2018"
 description = "namer helps you name you projects"
+license = "MIT"
 
 [dependencies]
 rand = "0.7.2"
