@@ -1,6 +1,6 @@
 [package]
 name = "namer"
-version = "0.1.1"
+version = "0.1.2-alpha.0"
 authors = ["Simarpreet Singh <simar@linux.com>"]
 edition = "2018"
 description = "namer helps you name you projects"
